@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kit Calag</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h1 align="center">Hi 👋, I'm Kit</h1>
+<h3 align="center">Enjoy the journey of programming</h3>
 <p align="center">
 <img align="mid" alt="Coding" width="400" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
 </p>
